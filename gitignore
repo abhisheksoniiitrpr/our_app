@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+tasks.db
+tasks.db-wal
+tasks.db-shm
+.streamlit/secrets.toml
